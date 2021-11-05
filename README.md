@@ -6,7 +6,7 @@ Um website desenvolvido para a FÊNIX - Centro Cultural de Educação e Desenvol
 Crie sua pasta desejada para rodar o projeto e execute o seguinte comando:
 
 ```bash
-git clone [https://github.com/mattheusz/fenix-website.git](https://github.com/mattheusz/fenix-website.git).
+git clone https://github.com/mattheusz/fenix-website.git
 ```
 
 Após isso, execute o seguinte comando para instalar as dependências do projeto:
