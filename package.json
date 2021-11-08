@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "source": "src/index.html",
-  "main": "src/index.html",
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "keywords": [],
   "author": "",
@@ -14,6 +13,8 @@
     "build-prod": "parcel build src/index.html"
   },
   "devDependencies": {
-    "parcel": "^2.0.0"
+    "parcel": "^2.0.0",
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.0"
   }
 }
